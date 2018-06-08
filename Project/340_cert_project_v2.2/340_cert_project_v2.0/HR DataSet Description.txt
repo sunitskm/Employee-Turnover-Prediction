@@ -1,0 +1,12 @@
+Fields in the dataset include:
+
+Satisfaction Level of employee on a scale of 1
+Last evaluation of employee on a scale of 1
+Number of projects done by employee
+Average monthly hours spent by employee
+Time spent at the company in years
+Whether they have had a work accident
+Whether the employee has left
+Whether they have had a promotion in the last 5 years
+Departments (column sales)
+Salary of employee
